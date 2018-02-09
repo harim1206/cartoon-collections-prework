@@ -48,6 +48,7 @@ def find_the_cheese(array)# code an argument here
     if array.include?(cheese) == true
       return cheese
     else
+      nil
 
 
 
