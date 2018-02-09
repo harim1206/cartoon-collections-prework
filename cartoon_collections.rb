@@ -45,7 +45,7 @@ def find_the_cheese(array)# code an argument here
 =end
 
   cheese_types.each do |name|
-    if array.include?(cheese_types)
+    if array.include?(name)
 
 
 
